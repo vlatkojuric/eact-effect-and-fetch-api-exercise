@@ -8,7 +8,7 @@ Open the file `./src/components/PokemonList.js`.
 
 For now the Pokémon are only fetched when we click the button below. Let's change the code so that our app does this automatically when the app renders.
 
-- Remove the 'Load Pokémon' button.
+- Remove the 'Load Pokémon' button.✅
 - Change the code below so that the `loadPokemon` function is only executed when the app component is rendered initially`
 
 _Hint:_ Don't forget the dependency array!
